@@ -4,7 +4,7 @@ const HeaderOption = ({ Icon, title, selected }) => {
             }`}>
             <Icon className='h-4' />
             <p className="hidden sm:inline-flex">{title}</p>
-        </div >
+        </div>
     )
 }
 
