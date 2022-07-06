@@ -6,7 +6,7 @@ Give me a star for my efforts.
 2. React 
 3. Next.js
 4. Heroicons
-5. tailwindCss
+5. TailwindCss
 
 ## Follow Me
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCpSg_NBPjrI5c-g1BPFWg_w)
